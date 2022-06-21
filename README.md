@@ -1,5 +1,5 @@
 # Zmiana Nazyw Zdjęc
-Program słóży do zmiany nazwy plików na foramt:<br />
+Program słóży do zmiany nazwy plików na format:<br />
 ROK-MIESIĄC-DZIEŃ GODZINA-MINUTA-SEKUNDA-MILISEKUNDA AUTOR<br />
 Nazwę autora należy podać jako pierwszy argument wywolania programu<br />
 Program zmienia nazwy plików tylko w katalogu w którym został uruchomiony<br />
